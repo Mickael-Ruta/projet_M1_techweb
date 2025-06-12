@@ -14,8 +14,6 @@ Il est composé d'un frontend développé en **React.js** et d'un backend en **N
 - Ajouter des produits au panier
 - Gérer le stock et les commandes
 
-Ce projet a été conçu dans un but pédagogique pour apprendre et mettre en pratique la création d'une application web complète (frontend + backend) avec React.js et Node.js.
-
 ---
 
 ## 🛠️ Technologies utilisées
@@ -23,13 +21,11 @@ Ce projet a été conçu dans un but pédagogique pour apprendre et mettre en pr
 ### Frontend
 - [React.js](https://react.dev/)
 - [React Router](https://reactrouter.com/)
-- [Axios](https://axios-http.com/)
-- [CSS3](https://developer.mozilla.org/fr/docs/Web/CSS)
+
 
 ### Backend
 - [Node.js](https://nodejs.org/)
 - [Express.js](https://expressjs.com/)
-- [Sequelize (ORM)](https://sequelize.org/)
 - [MySQL](https://www.mysql.com/)
 
 ---
@@ -50,5 +46,4 @@ npm run dev
 
 
 ### 1️⃣ Cloner le projet
-```bash
-git clone -b master https://github.com/KoolHenikaja/techweb.git
+```bas
